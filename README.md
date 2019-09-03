@@ -1,5 +1,7 @@
 # ultrasound
 
+ultrasound Thyroid image processing
+
 using convolution, some signal processing skills are implemented
 1) decimation & interpolation
 2) quadaratic demodulation
